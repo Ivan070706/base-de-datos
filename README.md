@@ -15,6 +15,7 @@ Aquí encontrarás cosas como:
 - **sds.sql** – archivo SQL con consultas o creación de tablas.
 - **tarea bd (2).pdf** – otra práctica más.
 - **tienda móviles BD.pdf** – base de datos de ejemplo sobre una tienda de móviles.
+- **Base de Datos de Alumnos**- base de datos de ejemplo sobre un instituto, donde añadimos y borramos alumnos.
 
 ## 🎯 ¿Para qué sirve este repo?
 
